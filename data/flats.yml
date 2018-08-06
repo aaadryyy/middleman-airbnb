@@ -1,0 +1,17 @@
+- manager_picture: 'https://kitt.lewagon.com/placeholder/users/ssaunier'
+  city_picture: 'https://kitt.lewagon.com/placeholder/cities/rio'
+  city: 'Rio'
+  country: 'Bresil'
+  tagline: "Rio c'est tip-top"
+
+- manager_picture: 'https://kitt.lewagon.com/placeholder/users/monsieurpaillard'
+  city_picture: 'https://kitt.lewagon.com/placeholder/cities/paris'
+  city: 'Paris'
+  country: 'France'
+  tagline: "Paris est magique"
+
+- manager_picture: 'https://kitt.lewagon.com/placeholder/users/papillard'
+  city_picture: 'https://kitt.lewagon.com/placeholder/cities/berlin'
+  city: 'Berlin'
+  country: 'Allemagne'
+  tagline: 'Ich bein ein berliner'
